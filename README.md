@@ -133,7 +133,7 @@ I'm an AI/ML Developer at **Router Architects**, where I build intelligent autom
 ## 📫 Let's Connect
 
 💼 **Open to:** Full-time AI/ML roles, freelance projects, and collaborations  
-📧 **Reach me:** [your.email@gmail.com](mailto:your.email@gmail.com)  
+📧 **Reach me:** [nitinrana1504@gmail.com](mailto:your.email@gmail.com)  
 💬 **Ask me about:** RAG systems, LangChain, prompt engineering, computer vision, data analysis
 
 ---
